@@ -18,3 +18,7 @@ For this, I used python `3.12.3` inside WSL2 Ubuntu.
 
 ## Usage
 Activate the python environment.
+
+```sh
+python app.py
+```
